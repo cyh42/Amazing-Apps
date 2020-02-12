@@ -15,7 +15,7 @@ A curated list of awesome things related to Windows software.
 - [uTools](https://www.u.tools/) - 是一个极简、插件化、跨平台的现代化桌面软件。通过自由选配丰富的插件，打造你得心应手的工具集合。
 - [Quicker](https://www.getquicker.net/) - 使用Quicker软件，为您的常用Windows操作建立捷径，更快、更简单的完成工作，让效率触手可及。
 - [WGestures鼠标手势](http://www.yingdev.com/projects/wgestures) - 一个更简单、更现代的鼠标手势。免费 & 开源。
-- [Snipaste](https://www.snipaste.com/) - 截图 + 贴图，提升你的工作效率！
+- [Snipaste](https://www.snipaste.com/) - 截图 + 贴图，快速抓取颜色信息，提升你的工作效率！
 - [FastStone Capture](http://www.faststone.org/) - 屏幕截图软件。
 - [QuickLook](https://github.com/QL-Win/QuickLook) - 允许您在不运行关联程序的情况下，通过敲击空格键来快速预览文件内容。
 - [Fences](https://www.lanzous.com/i5gi6kf) - 分类和组织桌面上的图标。
