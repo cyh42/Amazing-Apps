@@ -5,9 +5,11 @@
 
 A curated list of awesome things related to Windows software. 
 
-<img width="122" src="https://user-images.githubusercontent.com/7565692/35311593-3edd9102-00f2-11e8-98fb-38be1d0e650f.png" alt="logo of docsify-awesome repository">
+<img width="122" src="./Microsoft.png" alt="logo of docsify-awesome repository">
 
 </div>
+
+!> [百度网盘](https://pan.baidu.com/s/1cAgMebSK1YmYvBpt5CVNRw) - `提取码：3fx4`
 
 ## 效率工具
 
@@ -19,6 +21,7 @@ A curated list of awesome things related to Windows software.
 - [FastStone Capture](http://www.faststone.org/) - 屏幕截图软件。
 - [QuickLook](https://github.com/QL-Win/QuickLook) - 允许您在不运行关联程序的情况下，通过敲击空格键来快速预览文件内容。
 - [Fences](https://www.lanzous.com/i5gi6kf) - 分类和组织桌面上的图标。
+- [Groupy](http://www.carrotchou.blog/12665.html) - 聚合所有程序，并用标签管理窗口。
 - [Duet Display](https://www.duetdisplay.com/) - 用一根数据线将iPad变身扩展显示器。
 - [Iris Pro](https://iristech.co/) - 防蓝光护眼神器。
 - [Internet Download Manager (IDM)](http://www.internetdownloadmanager.com/download.html) - The fastest download accelerator.
