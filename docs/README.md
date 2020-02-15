@@ -35,6 +35,7 @@ A curated list of awesome things related to Windows software.
 
 - [EndNote](https://endnote.com/) - 管理文献必备软件！
 - [Origin](https://www.originlab.com/) - 其强大的数据分析功能和高品质绘图能力，是科研人员及工程师的必备软件。
+- [CopyTranslator](https://copytranslator.github.io/download/) - 复制即翻译的外文辅助阅读翻译解决方案。
 
 ## 行业软件
 
