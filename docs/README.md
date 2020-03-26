@@ -66,11 +66,12 @@ A curated list of awesome things related to Windows software.
 
 - [火绒安全软件](https://www.huorong.cn/) - 火绒安全软件主要针对杀、防、管、控这几方面进行功能设计，主要有病毒查杀、防护中心、访问控制、安全工具四部分功能。
 - [Dism++](https://www.chuyu.me/zh-Hans/index.html) - 全球第一款基于 CBS 的 Dism GUI 实现。
-- [Uninstall Tool](https://www.crystalidea.com/uninstall-tool/download) - Uninstaller that performs clean removal of any program from your PC.Installation tracing, leftovers removal.
+- [Uninstall Tool](https://www.crystalidea.com/uninstall-tool/download) - Uninstaller that performs clean removal of any program from your PC. Installation tracing, leftovers removal.
 - [Wise Care 365](https://www.wisecleaner.com.cn/download.html) - Windows 系统清理和加速工具。
 - [Wise Duplicate Finder](https://www.wisecleaner.com.cn/download.html) - 重复文件查找/删除工具。
 - [MX Activity Mover](http://www.meeximum.at/p/mxactivitymover_3.html) - 利用 MX Activity Mover，您可以将来自 Garmin Connect 或 Polar Personaltrainer 的训练日志直接传输至 Suunto Movescount。
 - [奥维互动地图浏览器](https://www.ovital.com/download/) - 集多种知名地图与一体，拥有强大的设计功能与地理信息展现技术，可满足各行各业地理信息规划的需求。它不仅是您工作上的好帮手，也是您探索未知世界的更好伴侣。
+- [noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - Windows 系统字体调整软件。
 
 ## GFW
 
